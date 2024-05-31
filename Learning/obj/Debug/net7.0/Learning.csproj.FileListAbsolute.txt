@@ -1,0 +1,15 @@
+/Users/gboneurban/Desktop/Development/Learning/Learning/bin/Debug/net7.0/Learning
+/Users/gboneurban/Desktop/Development/Learning/Learning/bin/Debug/net7.0/Learning.deps.json
+/Users/gboneurban/Desktop/Development/Learning/Learning/bin/Debug/net7.0/Learning.runtimeconfig.json
+/Users/gboneurban/Desktop/Development/Learning/Learning/bin/Debug/net7.0/Learning.dll
+/Users/gboneurban/Desktop/Development/Learning/Learning/bin/Debug/net7.0/Learning.pdb
+/Users/gboneurban/Desktop/Development/Learning/Learning/obj/Debug/net7.0/Learning.csproj.AssemblyReference.cache
+/Users/gboneurban/Desktop/Development/Learning/Learning/obj/Debug/net7.0/Learning.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gboneurban/Desktop/Development/Learning/Learning/obj/Debug/net7.0/Learning.AssemblyInfoInputs.cache
+/Users/gboneurban/Desktop/Development/Learning/Learning/obj/Debug/net7.0/Learning.AssemblyInfo.cs
+/Users/gboneurban/Desktop/Development/Learning/Learning/obj/Debug/net7.0/Learning.csproj.CoreCompileInputs.cache
+/Users/gboneurban/Desktop/Development/Learning/Learning/obj/Debug/net7.0/Learning.dll
+/Users/gboneurban/Desktop/Development/Learning/Learning/obj/Debug/net7.0/refint/Learning.dll
+/Users/gboneurban/Desktop/Development/Learning/Learning/obj/Debug/net7.0/Learning.pdb
+/Users/gboneurban/Desktop/Development/Learning/Learning/obj/Debug/net7.0/Learning.genruntimeconfig.cache
+/Users/gboneurban/Desktop/Development/Learning/Learning/obj/Debug/net7.0/ref/Learning.dll
